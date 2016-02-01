@@ -1,5 +1,5 @@
 {
-    "name": "lazyboywu/auth-qq",
+    "name": "lazyboywu/flarum-ext-auth-qq",
     "description": "Allow users to log in with QQ.",
     "type": "flarum-extension",
     "keywords": ["authentication", "QQ"],
